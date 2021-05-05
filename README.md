@@ -1,0 +1,1 @@
+Example of a colcon-cargo workspace that has a custom `ros2_rs` crate
