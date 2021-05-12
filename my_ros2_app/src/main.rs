@@ -1,5 +1,5 @@
-extern crate ros2_rs;
+extern crate geometry_msgs;
 
 fn main() {
-    ros2_rs::do_something();
+    let twist_msg = geometry_msgs::msg::Twist {};
 }

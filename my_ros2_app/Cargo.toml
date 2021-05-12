@@ -3,8 +3,6 @@ name = "my_ros2_app"
 version = "0.1.0"
 authors = ["Esteve Fernandez <esteve@apache.org>"]
 edition = "2018"
+build = "build.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
-ros2_rs = "0.1.0"

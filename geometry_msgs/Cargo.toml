@@ -1,5 +1,5 @@
 [package]
-name = "ros2_rs"
+name = "geometry_msgs"
 version = "0.1.0"
 authors = ["Esteve Fernandez <esteve@apache.org>"]
 edition = "2018"
